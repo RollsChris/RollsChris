@@ -12,6 +12,8 @@ Experienced in python geard towards machine learning.
 Im a full stask developer, able to create an application end to end.
 I have cloud experience and im a AWS Developer Associate.
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rollschris&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Endoego/Endoego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
